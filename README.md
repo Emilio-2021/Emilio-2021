@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Emilio-2021
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Emilio-2021 graduated in Computer Engineering 
+- 👀 I’m interested in programming languages, databases and statistics
+- 🌱 I’m currently learning Data Analytics, funny thing: I use to work with CASEWARE IDEA in 2000 to analyze and facilitate data to Teams of Auditors
+- 💞️ I’m looking to collaborate on a team of pythonists ;)
+- 📫 How to reach me: ccemil2k1@gmail.com
 
 <!---
 Emilio-2021/Emilio-2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
