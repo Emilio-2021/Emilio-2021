@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emilio-2021 Bachelor of Science in Computer Engineering 
 - 👀 I’m interested in programming languages, databases and statistics
-- 🌱 I’m currently learning Data Analytics, funny thing: I use to work with CASEWARE IDEA in 2000 to analyze and facilitate data to Teams of Auditors
+- 🌱 Portfolio: https://emilio-2021.github.io/portfolio/
 - 💞️ I’m looking to collaborate on a team of pythonists ;)
 - 📫 How to reach me: ccemil2k1@gmail.com
 
