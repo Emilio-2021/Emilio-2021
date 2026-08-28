@@ -23,10 +23,10 @@ You can click the Preview link to take a look at your changes.
 
   ### Featured projects
 
-  - [System Control Center - cpp-httplib](https://github.com/Emilio-2021/SysCntrlCntrCpp-Testhttplib)
-  - [System Control Center - Python](https://github.com/Emilio-2021/SystemControlCenterPy)
-  - [Sales Cart Checkout](https://github.com/Emilio-2021/SalesCartCheckout)
-  - [System Control Center - handmade C++ server](https://github.com/Emilio-2021/SystemControlCenterCpp)
+  - [System Control Center - cpp-httplib](https://github.com/Emilio-2021/SysControlCenterCpp_httplibServer) 
+  - [System Control Center - Python](https://github.com/Emilio-2021/system-control-center)
+  - [Sales Cart Checkout](https://github.com/Emilio-2021/SalesCartCheckoutCpp_httplibServer)
+  - [System Control Center - handmade C++ server](https://github.com/Emilio-2021/system-control-center-cpp)
 
   ### Education and certification
 
